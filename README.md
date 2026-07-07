@@ -1,4 +1,4 @@
-# ATtiny85 TX/RX Sequencer for HF LDMOS Power Amplifier
+# ATtiny85 TX/RX Sequencer for HF LDMOS Power Amplifier with overdrive protection
 
 ATtiny85-based TX/RX sequencer for a 1KW HF LDMOS solid-state power amplifier. Provides safe relay sequencing, overdrive protection, and hardware watchdog supervision.
 
